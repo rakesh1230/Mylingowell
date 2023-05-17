@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mylingowell *.css
+recursive-include mylingowell *.csv
+recursive-include mylingowell *.html
+recursive-include mylingowell *.ico
+recursive-include mylingowell *.js
+recursive-include mylingowell *.json
+recursive-include mylingowell *.md
+recursive-include mylingowell *.png
+recursive-include mylingowell *.py
+recursive-include mylingowell *.svg
+recursive-include mylingowell *.txt
+recursive-exclude mylingowell *.pyc
