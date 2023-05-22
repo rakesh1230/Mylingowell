@@ -199,3 +199,5 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"mylingowell.auth.validate"
 # ]
+
+fixtures = [{"dt": "Role Profile"}]

@@ -1,0 +1,47 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2023-05-20 15:55:36.828626",
+  "name": "Sales Manager",
+  "role_profile": "Sales Manager",
+  "roles": [
+   {
+    "parent": "Sales Manager",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2023-05-20 17:40:24.623758",
+  "name": "Sales Head",
+  "role_profile": "Sales Head",
+  "roles": [
+   {
+    "parent": "Sales Head",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2023-05-20 17:42:31.198549",
+  "name": "Sales User",
+  "role_profile": "Sales User",
+  "roles": [
+   {
+    "parent": "Sales User",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales User"
+   }
+  ]
+ }
+]
