@@ -1,0 +1,29 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "Territory wise Customer",
+   "width": "Half"
+  },
+  {
+   "chart": "customer and quotation count",
+   "width": "Half"
+  },
+  {
+   "chart": "customer and Sales order total count",
+   "width": "Half"
+  }
+ ],
+ "creation": "2023-05-18 22:19:22.694498",
+ "dashboard_name": "Sales Team Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2023-05-20 17:38:36.758043",
+ "modified_by": "Administrator",
+ "module": "mylingowell",
+ "name": "Sales Team Dashboard",
+ "owner": "Administrator"
+}
